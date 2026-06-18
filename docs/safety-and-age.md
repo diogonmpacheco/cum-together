@@ -32,7 +32,8 @@ Automated age estimation must not be the only protection. It can be wrong, biase
 No-face is both a privacy feature and a leveling principle.
 
 - The camera setup should teach face-out framing.
-- Local face guard can pause a camera where supported.
+- Local face blur should cover detected faces before room video where supported.
+- Unsupported browsers must be presented as manual framing only.
 - A stronger local model can be added later for broader browser support.
 - Face rooms can exist later, but must be separate and explicit.
 

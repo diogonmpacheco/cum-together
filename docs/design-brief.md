@@ -47,7 +47,7 @@ The first prototype demonstrates:
 - public room and private link room entry
 - no-face room agreement
 - no-face camera setup before entry
-- camera preview with local face guard where supported
+- camera preview with local face blur where supported
 - silent-only media access
 - equal video tile direction
 - safety guard panel

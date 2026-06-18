@@ -93,7 +93,7 @@ The ethical frame is: people pay for safer infrastructure, not for access to oth
 1. Replace manual WebRTC offer/answer with invite-link signaling.
 2. Add room roles: host, visible participant, paused participant, witness.
 3. Add host controls: admit, remove, lock, max room size, witness policy.
-4. Improve local safety automation for face guard, QR/contact-like text detection, and room policy nudges.
+4. Improve local safety automation for face blur, QR/contact-like text detection, and room policy nudges.
 5. Add age/identity strategy before any public launch.
 6. Add clear reporting and review flows.
 
