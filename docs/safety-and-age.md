@@ -34,6 +34,7 @@ No-face is both a privacy feature and a leveling principle.
 - The camera setup should teach face-out framing.
 - Local face blur should cover detected faces before room video where supported.
 - Safari should use the local MediaPipe fallback when native face detection is missing.
+- If a detector returns no face, the expected face zone should stay blurred instead of exposing a raw frame.
 - Unsupported browsers must be presented as manual framing only when they cannot create a protected canvas video stream.
 - A stronger local model can be added later for broader browser support.
 - Face rooms can exist later, but must be separate and explicit.
