@@ -12,4 +12,5 @@ The source repository is private. This repository contains the built static prot
 - [Room model](docs/room-model.md)
 - [Signaling plan](docs/signaling.md)
 - [Safety and age policy](docs/safety-and-age.md)
+- [Ethical monetization](docs/monetization.md)
 - [Vision](docs/vision.md)

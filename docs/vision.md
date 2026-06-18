@@ -65,6 +65,8 @@ The room itself should be the experience. Leaving the room should end the intera
 
 The project can make money only if revenue does not recreate the same attention economy it is trying to avoid.
 
+See [monetization.md](monetization.md) for the fuller ethical monetization strategy.
+
 Good revenue paths:
 
 - paid private room hosting

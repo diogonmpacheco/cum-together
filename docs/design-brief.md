@@ -46,10 +46,12 @@ The first prototype demonstrates:
 - first-time project intro
 - public room and private link room entry
 - no-face room agreement
+- no-face camera setup before entry
 - camera preview with local face guard where supported
 - silent-only media access
 - equal video tile direction
 - safety guard panel
+- host controls prototype
 - manual WebRTC offer/answer for peer testing
 - 20-window room layout direction for mobile and desktop
 
@@ -60,6 +62,7 @@ It is not production-ready. The prototype is a design and product direction arti
 - [Room model](room-model.md)
 - [Signaling plan](signaling.md)
 - [Safety and age policy](safety-and-age.md)
+- [Ethical monetization](monetization.md)
 
 ## Redesign Goals
 
