@@ -25,7 +25,7 @@ The room should feel like a protected shared space, not a cam marketplace, datin
 - Adults who want shared presence instead of isolated porn consumption.
 - Women and femme users who need protection from messages, pursuit, and saved identities.
 - Queer communities that already use improvised tools like Zoom or Telegram but lack purpose-built safety.
-- Older people, fat people, disabled people, trans and nonbinary people, shy people, couples, and people with bodies ignored by mainstream adult platforms.
+- Adults across ages, body types, genders, abilities, relationships, and comfort levels, especially people who feel sidelined by mainstream adult platforms.
 - Witnesses who may want to be present without performing, if the room explicitly allows it.
 
 ## Non-Negotiables
@@ -33,7 +33,7 @@ The room should feel like a protected shared space, not a cam marketplace, datin
 - Adults only.
 - No faces by default.
 - No microphones, voice, music, chat, DMs, comments, or inboxes by default.
-- No public discovery feed of bodies.
+- No public discovery feed of participants.
 - No rankings, likes, tips, followers, promoted tiles, or popularity mechanics.
 - No contact exchange: names, handles, emails, phone numbers, links, and QR codes should be forbidden.
 - No built-in recording, screenshots, streaming, or sharing tools.
@@ -102,7 +102,7 @@ Avoid:
 - How do we communicate “no face expected” without making users feel policed?
 - How can a room with many people feel collective, not overwhelming?
 - How should witness mode work without turning visible participants into objects?
-- What does “safe for women” look like in layout, defaults, and controls?
+- What does safety for people who are often targeted look like in layout, defaults, and controls?
 - How does the UI show that everyone is equally present?
 - What should the pause/hide/leave controls look like so they feel instinctive?
 - How do we make privacy limitations honest without scaring people away?

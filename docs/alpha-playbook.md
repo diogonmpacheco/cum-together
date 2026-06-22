@@ -74,7 +74,7 @@ Use this for:
 - Did the room feel collective or lonely?
 - What would make you stay longer?
 - What would make you leave immediately?
-- If you are a woman, queer user, older user, fat user, disabled user, or shy user: what still feels missing for safety or dignity?
+- If you often feel sidelined, targeted, or left out in adult spaces: what still feels missing for safety or dignity?
 
 ## Success Criteria
 

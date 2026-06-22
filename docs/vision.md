@@ -2,13 +2,13 @@
 
 Cum Together is an adult-only space for shared erotic presence without turning people into performers, products, rankings, or inbox targets.
 
-It is not for one identity group only. Gay Zoom communities are a clear proof of need, but the deeper need is wider: adults who want to see and be seen safely, including queer people, women, older people, fat people, disabled people, shy people, couples, trans and nonbinary people, people with bodies that are ignored by mainstream porn, and people who are lonely.
+It is not for one identity group only. Gay Zoom communities are one visible proof of need, but the deeper need is wider: adults across ages, body types, genders, abilities, relationships, and comfort levels who want to see and be seen safely, especially those mainstream adult platforms tend to sideline.
 
 ## Core Promise
 
 See and be seen, without being chased or exposed.
 
-The app should make a group experience possible for people who otherwise end up alone with porn, algorithmic feeds, or unsafe video rooms. The important difference is equal presence: no rankings, no tips, no DMs, no public follower graph, no private inbox, no “perfect body” economy.
+The app should make a group experience possible for people who otherwise end up alone with porn, algorithmic feeds, or unsafe video rooms. The important difference is equal presence: no rankings, no tips, no DMs, no public follower graph, no private inbox, and no appearance-based economy.
 
 ## Product Principles
 
@@ -16,7 +16,7 @@ The app should make a group experience possible for people who otherwise end up 
 - **No-face by default:** people should not feel pressured to show identity. Face rooms can exist later as a separate, explicit room type.
 - **Silent by default:** no microphones, no music, no voice pressure.
 - **No contact exchange:** no handles, names, emails, phone numbers, links, QR codes, or off-platform chasing.
-- **Equal tiles:** the UI should not promote the most conventionally desirable body.
+- **Equal tiles:** the UI should not promote one kind of look, status, or presentation over another.
 - **No public discovery feed:** public rooms can exist, but people are not browsed as inventory.
 - **No built-in recording:** the app cannot prevent all screen recording, but it can make recording forbidden, visible, reportable, and culturally unacceptable.
 - **Safety is infrastructure:** pause, leave, report, remove, lock, and automated face/contact detection are core product features.
@@ -30,21 +30,21 @@ Not everyone will want to be fully visible at the same time. That can be okay if
 - **Witness mode:** watches without performing, only in rooms where the host and room agreement allow it.
 - **Face room:** possible later as a clearly separate room type, never the default.
 
-Witness mode must not become a one-way extraction dynamic. Rooms should be able to set ratios, for example “mostly visible participants” or “witnesses allowed.” Women and other people who are often harassed should never be turned into public objects for a silent audience.
+Witness mode must not become a one-way extraction dynamic. Rooms should be able to set ratios, for example “mostly visible participants” or “witnesses allowed.” People who are often targeted or harassed should never be turned into public objects for a silent audience.
 
 ## Inclusion
 
-The app should actively resist the body hierarchy of porn and cam platforms.
+The app should actively resist the appearance hierarchy of porn and cam platforms.
 
 Design language should feel adult, warm, private, and human. It should not feel like a nightclub flyer, a porn tube site, a crypto platform, or a hustle marketplace.
 
-People should feel that older bodies, fat bodies, disabled bodies, trans bodies, shy bodies, and imperfect bodies belong without needing a special “category.”
+People should feel that age, body type, ability, gender expression, privacy preference, or confidence level never determines whether they belong.
 
 The no-face default helps level the room. It tells people that identity, conventional attractiveness, and public recognizability are not the price of belonging.
 
-## Women’s Safety
+## Protection From Pursuit
 
-Women often cannot exist in adult online spaces without being flooded by messages, requests, insults, saved images, or off-platform pursuit.
+Many people, especially women and others who are frequently targeted, cannot exist in adult online spaces without being flooded by messages, requests, insults, saved images, or off-platform pursuit.
 
 Cum Together should remove the usual attack surfaces:
 
@@ -80,13 +80,13 @@ Revenue to avoid:
 
 - tips tied to individual performers
 - ranking boosts
-- promoted bodies
+- promoted participants
 - ads based on sexual behavior
 - selling data
 - public follower economies
 - pay-to-message
 
-The ethical frame is: people pay for safer infrastructure, not for access to other people’s bodies.
+The ethical frame is: people pay for safer infrastructure, not for access to other people.
 
 ## Near-Term Roadmap
 

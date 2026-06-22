@@ -2,7 +2,7 @@
 
 ## Principle
 
-People pay for safer infrastructure, not for access to other people’s bodies.
+People pay for safer infrastructure, not for access to other people.
 
 Cum Together should not become a cam marketplace, dating funnel, attention casino, or creator tipping platform. Revenue must protect the room instead of ranking the people inside it.
 
@@ -85,7 +85,7 @@ Guardrails:
 
 - clear host responsibilities
 - strict minors policy
-- no resale of access to individuals’ bodies
+- no resale of access to individuals
 
 ### Paid Verification Or Safety Review
 
@@ -208,10 +208,10 @@ It should not optimize:
 Before adding a paid feature, ask:
 
 1. Does this sell infrastructure or access to a person?
-2. Does this make some bodies more visible than others?
+2. Does this make some participants more visible than others?
 3. Does this create pressure to perform?
 4. Does this increase harassment or off-platform pursuit?
-5. Would women and vulnerable users feel safer with this feature?
+5. Would people who are often targeted or vulnerable feel safer with this feature?
 6. Would the project still feel proud of this model if described plainly?
 
 If the answer is uncomfortable, do not ship it.
