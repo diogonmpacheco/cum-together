@@ -14,3 +14,4 @@ The source repository is private. This repository contains the built static prot
 - [Safety and age policy](docs/safety-and-age.md)
 - [Ethical monetization](docs/monetization.md)
 - [Vision](docs/vision.md)
+- [Alpha playbook](docs/alpha-playbook.md)

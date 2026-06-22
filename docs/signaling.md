@@ -2,7 +2,12 @@
 
 ## Current State
 
-The prototype uses manual WebRTC offer/answer copy-paste. That proves direct media can work, but it is not a real user experience.
+The prototype now has two signaling paths:
+
+1. an automatic local room bridge using `BroadcastChannel` for same-origin alpha testing
+2. the older manual WebRTC offer/answer copy-paste fallback for debugging direct media
+
+The automatic bridge proves the app can support a real host queue, invite-link join flow, and room state without forcing users to exchange raw SDP text. It is still local-only and not a production signaling service.
 
 ## Target
 
@@ -72,8 +77,8 @@ Peer-to-peer can expose participant IP addresses to each other. TURN relay can h
 ## Implementation Phases
 
 1. Keep manual P2P as a fallback for development.
-2. Add a signaling adapter interface in the app.
-3. Implement link-room WebSocket signaling.
-4. Add host admit/remove/lock events.
+2. Keep the local alpha bridge until the room state model is stable.
+3. Replace the local bridge with link-room WebSocket signaling.
+4. Preserve host admit/remove/lock events in the server version.
 5. Add TURN support only after the UI can explain relay mode honestly.
 6. Add abuse controls and age strategy before public discovery or large public rooms.
