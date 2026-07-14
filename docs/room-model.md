@@ -27,7 +27,7 @@ flowchart LR
 | Room agreement | Make safety explicit before entry. | 18+, consent, no minors, no faces, no contact exchange, no recording. |
 | No-face camera setup | Let people test framing before joining. | Camera on/off, local face blur where supported, local-only preview, no mic request. |
 | Waiting room | Prepare connection and host controls. | Room capacity, witness policy, admit/remove/lock. |
-| Live room | Shared presence. | 20 equal windows, silent status, pause/leave/report always visible. |
+| Live room | Mutual masturbation in a shared video room. | 20 equal windows, silent status, pause/leave/report always visible. |
 | Paused | Participant stays present while hidden. | Camera stops, tile shows paused, resume is deliberate. |
 | Left room | Interaction ends cleanly. | Stop tracks, close peer connections, clear transient state. |
 | Report or remove | Safety response. | Reason, evidence metadata, immediate local hide/remove. |

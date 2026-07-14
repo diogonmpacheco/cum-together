@@ -16,12 +16,13 @@ Run closed alpha sessions that answer product questions, not just gather vague r
 
 ## What To Test
 
-1. Does the intro make the product legible in under a minute?
-2. Does no-face setup feel protective instead of shame-based?
-3. Does paused entry reduce pressure?
-4. Does witness mode feel safe or extractive?
-5. Do host controls feel calm and obvious?
-6. Do people understand the room is closed alpha and intentionally scoped?
+1. Do people understand immediately that this is a room for adults to masturbate together and that nudity may be visible?
+2. Does the intro make the product legible in under a minute?
+3. Does no-face setup feel protective instead of shame-based?
+4. Does paused entry reduce pressure?
+5. Does witness mode feel safe or extractive?
+6. Do host controls feel calm and obvious?
+7. Do people understand the room is closed alpha and intentionally scoped?
 
 ## Session Formats
 
@@ -52,6 +53,7 @@ Use this for:
 1. Send the full invite link or public alpha phrase.
 2. Ask the participant to narrate what they think this product is before joining.
 3. Watch whether they understand:
+   - mutual masturbation and possible nudity
    - closed alpha
    - no-face
    - silent room
@@ -78,7 +80,7 @@ Use this for:
 
 ## Success Criteria
 
-- participants understand the product promise quickly
+- participants understand quickly that the room is for mutual masturbation and may contain nudity
 - no-face setup feels normal
 - paused entry is used and appreciated
 - host admission and removal are understood

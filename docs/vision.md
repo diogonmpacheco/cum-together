@@ -1,14 +1,14 @@
 # Cum Together Vision
 
-Cum Together is an adult-only space for shared erotic presence without turning people into performers, products, rankings, or inbox targets.
+Cum Together is an adults-only video space where people can masturbate together without turning anyone into a performer, product, ranking, or inbox target.
 
 It is not for one identity group only. Gay Zoom communities are one visible proof of need, but the deeper need is wider: adults across ages, body types, genders, abilities, relationships, and comfort levels who want to see and be seen safely, especially those mainstream adult platforms tend to sideline.
 
 ## Core Promise
 
-See and be seen, without being chased or exposed.
+Masturbate together, see and be seen, without being chased or exposed.
 
-The app should make a group experience possible for people who otherwise end up alone with porn, algorithmic feeds, or unsafe video rooms. The important difference is equal presence: no rankings, no tips, no DMs, no public follower graph, no private inbox, and no appearance-based economy.
+The app should make mutual masturbation possible for people who otherwise end up alone with porn, algorithmic feeds, or unsafe video rooms. The important difference is equal presence: no rankings, no tips, no DMs, no public follower graph, no private inbox, and no appearance-based economy.
 
 ## Product Principles
 
@@ -23,11 +23,11 @@ The app should make a group experience possible for people who otherwise end up 
 
 ## Participation Modes
 
-Not everyone will want to be fully visible at the same time. That can be okay if the room design stays honest.
+Masturbation and visibility are always optional. Not everyone will want to be visible or participate in the same way at the same time, and anyone can pause or leave whenever consent changes.
 
-- **No-face visible participant:** camera on, face out of frame, equal tile, silent.
+- **No-face visible participant:** camera on, face out of frame, equal tile, silent; may masturbate without being expected to perform for anyone.
 - **Paused participant:** camera hidden temporarily, still present in the room.
-- **Witness mode:** watches without performing, only in rooms where the host and room agreement allow it.
+- **Witness mode:** watches adults masturbate without being on camera, only in rooms where the host and room agreement allow it.
 - **Face room:** possible later as a clearly separate room type, never the default.
 
 Witness mode must not become a one-way extraction dynamic. Rooms should be able to set ratios, for example “mostly visible participants” or “witnesses allowed.” People who are often targeted or harassed should never be turned into public objects for a silent audience.
@@ -99,4 +99,4 @@ The ethical frame is: people pay for safer infrastructure, not for access to oth
 
 ## Long-Term Possibility
 
-If done well, Cum Together can become a sex-positive civic space: not porn, not dating, not social media, not cam work, but a room where adults can have a shared embodied experience without loneliness, shame, harassment, or market pressure.
+If done well, Cum Together can become a sex-positive social space for mutual masturbation: not a dating app, social network, or cam-work marketplace, but a room where adults can share a sexual experience without loneliness, shame, harassment, or market pressure.

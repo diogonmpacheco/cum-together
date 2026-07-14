@@ -1,0 +1,103 @@
+.language-switcher {
+  position: fixed;
+  top: max(12px, env(safe-area-inset-top));
+  right: max(12px, env(safe-area-inset-right));
+  z-index: 10000;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  min-height: 38px;
+  padding: 4px;
+  color: #f7f5ed;
+  background: rgba(17, 19, 17, 0.9);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 999px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.24);
+  backdrop-filter: blur(14px);
+}
+
+.language-switcher__label {
+  padding: 0 6px 0 8px;
+  color: rgba(247, 245, 237, 0.72);
+  font-size: 0.68rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.language-switcher button {
+  min-width: 38px;
+  min-height: 30px;
+  padding: 0 9px;
+  color: rgba(247, 245, 237, 0.78);
+  font: inherit;
+  font-size: 0.74rem;
+  font-weight: 800;
+  line-height: 1;
+  background: transparent;
+  border: 0;
+  border-radius: 999px;
+  cursor: pointer;
+}
+
+.language-switcher button:hover,
+.language-switcher button:focus-visible {
+  color: #fff;
+  background: rgba(255, 255, 255, 0.12);
+  outline: none;
+}
+
+.language-switcher button:focus-visible {
+  box-shadow: 0 0 0 2px #d7708f;
+}
+
+.language-switcher button[aria-pressed="true"] {
+  color: #fff;
+  background: #a82f54;
+}
+
+.topbar,
+.room-topbar,
+.setup-topbar {
+  padding-right: 168px;
+}
+
+.intro-hero {
+  padding-top: 46px;
+}
+
+html[lang="pt-PT"] .technical-drawer summary::after {
+  content: "abrir";
+}
+
+html[lang="pt-PT"] .technical-drawer[open] summary::after {
+  content: "fechar";
+}
+
+@media (max-width: 720px) {
+  .language-switcher {
+    top: max(8px, env(safe-area-inset-top));
+    right: max(8px, env(safe-area-inset-right));
+  }
+
+  .language-switcher__label {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+  }
+
+  .topbar,
+  .room-topbar,
+  .setup-topbar {
+    padding-top: 46px;
+    padding-right: 0;
+  }
+
+  .intro-hero {
+    padding-top: 48px;
+  }
+}

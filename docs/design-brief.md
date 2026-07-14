@@ -4,15 +4,15 @@
 
 ## One-Line Concept
 
-Cum Together is an adult-only, no-face, silent video room for shared presence without feeds, rankings, DMs, tips, or public exposure.
+Cum Together is an adults-only, no-face, silent video room where people can masturbate together without feeds, rankings, DMs, tips, or public exposure.
 
-The name is a deliberate adult wordplay on “Come Together.” It should feel clever and culturally legible, but the design should not borrow Beatles artwork, lyrics, typography, or visual identity.
+The name deliberately combines “cum” (slang for semen or orgasm) with “Come Together.” It should feel clever and culturally legible, but the design should not borrow Beatles artwork, lyrics, typography, or visual identity.
 
 ## Why It Exists
 
-Most adult video spaces copy the same pattern: people are browsed, ranked, messaged, skipped, tipped, saved, and treated as inventory. This excludes many people and makes others unsafe.
+Most online spaces for mutual masturbation copy the same pattern: people are browsed, ranked, messaged, skipped, tipped, saved, and treated as inventory. This excludes many people and makes others unsafe.
 
-Cum Together starts from a different premise: people should be able to participate in a shared adult room without showing their face, competing for attention, receiving messages, revealing contact details, or becoming a public profile.
+Cum Together starts from a different premise: people should be able to masturbate with others in a shared adult video room without showing their face, competing for attention, receiving messages, revealing contact details, or becoming a public profile.
 
 ## Product Promise
 
@@ -22,11 +22,11 @@ The room should feel like a protected shared space, not a cam marketplace, datin
 
 ## Primary Audiences
 
-- Adults who want shared presence instead of isolated porn consumption.
+- Adults who want to masturbate with others instead of consuming porn alone.
 - Women and femme users who need protection from messages, pursuit, and saved identities.
 - Queer communities that already use improvised tools like Zoom or Telegram but lack purpose-built safety.
 - Adults across ages, body types, genders, abilities, relationships, and comfort levels, especially people who feel sidelined by mainstream adult platforms.
-- Witnesses who may want to be present without performing, if the room explicitly allows it.
+- Witnesses who may want to watch others masturbate without being on camera, if the room explicitly allows it.
 
 ## Non-Negotiables
 

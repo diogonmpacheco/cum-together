@@ -2,11 +2,13 @@
 
 ## Launch Boundary
 
-Cum Together must not launch as a public adult room product until the minors policy, reporting flow, host controls, and abuse response process are real. The prototype is for design and technical feedback.
+Cum Together must not launch as a public mutual-masturbation video product until the minors policy, reporting flow, host controls, and abuse response process are real. The prototype is for design and technical feedback.
 
 ## Non-Negotiable Rules
 
 - Adults only.
+- All sexual activity must be consensual; consent can be withdrawn at any time.
+- Nobody is required to masturbate, remain visible, or perform for anyone.
 - No minors present, visible, nearby, or able to enter the camera frame.
 - No faces by default.
 - No contact exchange.
@@ -19,7 +21,7 @@ Cum Together must not launch as a public adult room product until the minors pol
 The product needs layered age protection:
 
 1. Adult-only warning before entry.
-2. Explicit 18+ agreement per room.
+2. Explicit 18+ agreement per room that acknowledges nudity and masturbation may be visible.
 3. Host responsibility for room membership.
 4. Report and immediate removal for suspected minors.
 5. Stronger verification before public rooms become real.
